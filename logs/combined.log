@@ -1,0 +1,57 @@
+2025-04-10 14:38:36 error: Error: server started
+    at Server.<anonymous> (/home/uzair/Desktop/learning/new-backend/src/index.js:9:16)
+    at Server.f (/home/uzair/Desktop/learning/new-backend/node_modules/once/once.js:25:25)
+    at Object.onceWrapper (node:events:631:28)
+    at Server.emit (node:events:529:35)
+    at emitListeningNT (node:net:1845:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+2025-04-11 11:51:03 error: Error: server started
+    at Server.<anonymous> (/home/uzair/Desktop/learning/new-backend/src/index.js:9:16)
+    at Server.f (/home/uzair/Desktop/learning/new-backend/node_modules/once/once.js:25:25)
+    at Object.onceWrapper (node:events:631:28)
+    at Server.emit (node:events:529:35)
+    at emitListeningNT (node:net:1845:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+2025-04-11 12:26:04 error: Error: server started
+    at Server.<anonymous> (/home/uzair/Desktop/learning/new-backend/src/index.js:9:16)
+    at Server.f (/home/uzair/Desktop/learning/new-backend/node_modules/once/once.js:25:25)
+    at Object.onceWrapper (node:events:632:26)
+    at Server.emit (node:events:517:28)
+    at emitErrorNT (node:net:1838:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-04-11 12:26:20 info: Error: server started
+    at Server.<anonymous> (/home/uzair/Desktop/learning/new-backend/src/index.js:9:15)
+    at Server.f (/home/uzair/Desktop/learning/new-backend/node_modules/once/once.js:25:25)
+    at Object.onceWrapper (node:events:631:28)
+    at Server.emit (node:events:529:35)
+    at emitListeningNT (node:net:1845:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+2025-04-11 12:26:20 info: Error: server started
+    at Server.<anonymous> (/home/uzair/Desktop/learning/new-backend/src/index.js:9:15)
+    at Server.f (/home/uzair/Desktop/learning/new-backend/node_modules/once/once.js:25:25)
+    at Object.onceWrapper (node:events:632:26)
+    at Server.emit (node:events:517:28)
+    at emitErrorNT (node:net:1838:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-04-11 12:26:38 info: Error: server started
+    at Server.<anonymous> (/home/uzair/Desktop/learning/new-backend/src/index.js:9:15)
+    at Server.f (/home/uzair/Desktop/learning/new-backend/node_modules/once/once.js:25:25)
+    at Object.onceWrapper (node:events:631:28)
+    at Server.emit (node:events:529:35)
+    at emitListeningNT (node:net:1845:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+2025-04-11 12:26:38 info: Error: server started
+    at Server.<anonymous> (/home/uzair/Desktop/learning/new-backend/src/index.js:9:15)
+    at Server.f (/home/uzair/Desktop/learning/new-backend/node_modules/once/once.js:25:25)
+    at Object.onceWrapper (node:events:632:26)
+    at Server.emit (node:events:517:28)
+    at emitErrorNT (node:net:1838:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-04-11 12:26:39 info: server started
+2025-04-11 12:26:39 info: server started
+2025-04-11 16:43:06 info: server started
+2025-04-11 19:33:28 info: server started
+2025-04-12 15:27:38 info: server started
+2025-04-12 15:28:58 info: server started
+2025-04-12 15:39:34 info: server started
+2025-04-12 15:43:49 info: server started
