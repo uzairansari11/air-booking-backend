@@ -1,3 +1,3 @@
-module.exports={
-  
-}
+module.exports = {
+    AppError: require('./errors/app-error'),
+};
